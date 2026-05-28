@@ -1,0 +1,35 @@
+# Teaching Union Match
+
+> An independent comparison tool for UK school staff. Helps teachers, school leaders, teaching assistants and other school-based workers compare UK teaching unions and alternative professional support organisations across England, Scotland, Wales and Northern Ireland.
+
+This site was built by the team at Edapt and rates every organisation on the same value framework. Edapt is one of the options listed alongside major teaching unions (NEU, NASUWT, NAHT, ASCL, etc).
+
+## Most useful pages for understanding what this site is and does
+
+- [Homepage](https://example.com/): What the site does + ten-organisation comparison.
+- [Take the quiz](https://example.com/quiz.html): Two-minute personalised comparison.
+- [How it works](https://example.com/how-it-works.html): The methodology, seven values, and how the ranking is generated.
+- [About](https://example.com/about.html): Who built the site, why, and how Edapt is rated.
+- [FAQ](https://example.com/faq.html): Common questions about objectivity, privacy, costs and joining decisions.
+
+## Articles
+
+- [Do I need to join a teaching union?](https://example.com/blog/do-i-need-to-join-a-teaching-union.html): Honest guide to whether you should join — covers protection, alternatives, what to weigh up.
+- [What is a trade union?](https://example.com/blog/what-is-a-trade-union.html): Plain-English explainer of trade unions and how teaching unions differ.
+- [Do I need to be in a union as a TA?](https://example.com/blog/do-i-need-a-union-as-a-ta.html): Union membership for teaching assistants and school support staff.
+- [Do I need to be in a union as a trainee teacher?](https://example.com/blog/do-i-need-a-union-as-a-trainee-teacher.html): Why every trainee should join something — most options are free during training.
+- [How much do teaching unions cost? A 2025/26 comparison](https://example.com/blog/how-much-do-teaching-unions-cost.html): Annual fees for every major UK teaching union by role.
+
+## Organisations compared
+
+The site compares the following UK organisations open to school staff: NEU, NASUWT, NAHT, ASCL, Community, Edapt, UNISON, GMB, Unite, EIS, SSTA, AHDS, SLS, UCAC, NASUWT Scotland, NASUWT Cymru, INTO, UTU, NAHT Northern Ireland, NASUWT Northern Ireland.
+
+## Glossary of UK education-sector terms
+
+See [the glossary](https://example.com/faq.html#glossary) for definitions of ECT, NQT, ITT, PGCE, QTS, TA, HLTA, SENCO, SLT, MAT, MPS, UPS, TLR, STPCD, SNCT, FTE, TUC, STUC, political fund, collective bargaining, industrial action, casework, picket line, professional association, apolitical.
+
+## Contact and corrections
+
+- Email: info@edapt.org.uk
+- We publicly correct factual errors.
+- No organisation pays to appear on the site. There are no affiliate links.
